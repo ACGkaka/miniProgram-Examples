@@ -12,9 +12,19 @@
 
 <img src="https://img-blog.csdnimg.cn/20210503205449877.png" width="40%" />
 
+
+
 <font color="red">**（点击吉他，可以播放 / 暂停背景音乐哦~）**</font>
+
+
+
 <img src="https://img-blog.csdnimg.cn/20210503205537866.png" width="40%" />
+
+
+
 <img src="https://img-blog.csdnimg.cn/20210503205603153.png" width="40%" />
+
+
 
 ## 二、代码结构
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210503210053451.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMzMjA0NzA5,size_16,color_FFFFFF,t_70)
