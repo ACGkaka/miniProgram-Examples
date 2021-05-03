@@ -1,0 +1,54 @@
+page{
+  background: #f8dae2;
+  font-family: '微软雅黑'
+}
+.tu{
+  width: 450rpx;
+  height: 450rpx;
+  border-radius: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100rpx;
+  margin-bottom: auto;
+  display: flex;
+}
+.main_text{
+  text-align: center;
+  color: #FF6699;
+  position: absolute;
+}
+.choose{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100rpx;
+  margin-bottom: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.Anniu{
+  width: 40%;
+  height: 80rpx;
+  color: white;
+  border-radius: 35rpx;
+  line-height: 80rpx;
+  background: #b57fb3;
+  background-size: auto;
+  font-size: 50rpx;
+  font-weight: 900;
+}
+.dibu{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100rpx;
+  margin-bottom: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.fuhao{
+  color: #deb3cf;
+  font-weight: 1200;
+}

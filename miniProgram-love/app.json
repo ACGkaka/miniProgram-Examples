@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/001/index",
+    "pages/002/index",
+    "pages/003/index",
+    "pages/004/index",
+    "pages/005/index",
+    "pages/bye/bye",
+    "components/navbar/navbar"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#e6b9d0",
+    "navigationBarTextStyle": "white",
+    "navigationStyle": "custom"
+  },
+  "sitemapLocation": "sitemap.json"
+}

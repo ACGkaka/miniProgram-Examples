@@ -1,0 +1,19 @@
+<view class='view-page'>
+  <navbar page-name="" bg-color="#e6b9d0" icon-color="#fff" custom-class="custom"></navbar>
+  <view class='page-content'>
+
+    <image class="tu" src='/images/005.gif'></image>
+
+    <text class="topic">下班了~</text>
+
+    <view class="choose">
+      <button bindtap="next" class="Anniu">继续</button>
+    </view>
+
+    <view class="dibu">
+      <text class="fuhao">------ ♥ ------</text>
+    </view>
+
+    <image class='audio_post{{music_on?" music_on":""}}'  style="animation-play-state:{{music_playing?'running':'paused'}}" src='http://pic.51yuansu.com/pic3/cover/02/03/25/599da0b8c9490_610.jpg' bindtap="clickImg" ></image>
+  </view>
+</view>

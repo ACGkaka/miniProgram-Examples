@@ -1,0 +1,26 @@
+.audio_post{
+  width: 100rpx;
+  height: 100rpx;
+  float: right;
+  margin: 50rpx 20rpx;
+  border-radius: 50%;
+}
+ 
+/* 旋转的样式 */
+.music_on{
+  animation: audio-rotate 8s linear infinite;
+}
+ 
+/* 旋转动画 */
+@keyframes audio-rotate {
+  0% {
+    transform: rotateZ(0deg);
+  }
+  100% {
+    transform: rotateZ(360deg);
+  }
+}
+
+.custom{
+  color: "#A78697"
+}
